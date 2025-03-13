@@ -94,15 +94,15 @@
 - Check if all queries are correctly linked 
 
 ## Here's the screenshot of my output before I started data cleaning
-![screenshot](/Midterm%20Task%202/Images/Before.PNG)
+![screenshot](/Images/Before.PNG)
 
 ## Here's the Data Cleaning Activities
-![screenshot](/Midterm%20Task%202/Images/Data%20Cleaning%20Activities.PNG)
+![screenshot](/Images/Data%20Cleaning%20Activities.PNG)
 
 ## Here's the screenshot of my output after I started data cleaning
 - Uncleaned_DS_jobs
   
-![screenshot](/Midterm%20Task%202/Images/Uncleaned_DS_jobs.png)
+![screenshot](/Images/Uncleaned_DS_jobs.png)
 
 - Sal_by_role_type_dup
 
@@ -110,19 +110,19 @@
 
 - Sal_by_size_ref
 
-![screenshot](/Midterm%20Task%202/Images/Sal_by_size_ref.png)
+![screenshot](/Images/Sal_by_role_type_dup.png)
 
 - Sal_by_size_role_type_dup
 
-![screenshot](/Midterm%20Task%202/Images/Sal_by_size_role_type_dup.png)
+![screenshot](/Images/Sal_by_size_role_type_dup.png)
 
 - Sal_by_state_ref
 
-![screenshot](/Midterm%20Task%202/Images/Sal_by_state_ref.png)
+![screenshot](/Images/Sal_by_state_ref.png)
 
 - States
 
-![screenshot](/Midterm%20Task%202/Images/states.png)
+![screenshot](/Images/states.png)
 
 ## Here's the screenshot of the Query Dependencies
-![screenshot](/Midterm%20Task%202/Images/Query%20Dependencies.png)
+![screenshot](/Images/Query%20Dependencies.png)
