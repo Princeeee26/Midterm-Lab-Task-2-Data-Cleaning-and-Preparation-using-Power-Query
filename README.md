@@ -94,9 +94,11 @@
 - Check if all queries are correctly linked 
 
 ## Here's the screenshot of my output before I started data cleaning
+
 ![screenshot](/Images/Before.PNG)
 
 ## Here's the Data Cleaning Activities
+
 ![screenshot](/Images/Data%20Cleaning%20Activities.PNG)
 
 ## Here's the screenshot of my output after I started data cleaning
@@ -125,4 +127,5 @@
 ![screenshot](/Images/states.png)
 
 ## Here's the screenshot of the Query Dependencies
+
 ![screenshot](/Images/Query%20Dependencies.png)
