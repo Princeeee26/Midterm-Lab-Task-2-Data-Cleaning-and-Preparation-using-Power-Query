@@ -99,7 +99,7 @@
 
 ## Here's the Data Cleaning Activities
 
-![screenshot](/Images/Data%20Cleaning%20Activities.PNG)
+![screenshot](/Images/Data_Cleaning_Activities.PNG)
 
 ## Here's the screenshot of my output after I started data cleaning
 - Uncleaned_DS_jobs
@@ -108,7 +108,7 @@
 
 - Sal_by_role_type_dup
 
-![screenshot](/Midterm%20Task%202/Images/Sal_by_role_type_dup.png)
+![screenshot](/Images/Sal_by_role_type_dup.png)
 
 - Sal_by_size_ref
 
@@ -128,4 +128,4 @@
 
 ## Here's the screenshot of the Query Dependencies
 
-![screenshot](/Images/Query%20Dependencies.png)
+![screenshot](/Images/Query_Dependencies.png)
